@@ -6,7 +6,6 @@
 
 /**
  *
- * @author Neelesh Sarraf
  */
 public class issue_status extends javax.swing.JFrame {
 
