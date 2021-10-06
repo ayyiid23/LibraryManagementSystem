@@ -16,7 +16,6 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Neelesh Sarraf
  */
 public class employeeShow extends javax.swing.JFrame {
 
