@@ -5,8 +5,7 @@
  */
 
 /**
- *
- * @author Shistata Subedi
+
  */
 public class employee extends javax.swing.JFrame {
 
