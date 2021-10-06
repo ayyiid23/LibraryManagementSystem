@@ -16,7 +16,6 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Neelesh Sarraf
  */
 public class customerShow extends javax.swing.JFrame {
 
