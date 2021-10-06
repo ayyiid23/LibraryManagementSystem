@@ -14,7 +14,6 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Neelesh Sarraf
  */
 public class branchDelete extends javax.swing.JFrame {
 
