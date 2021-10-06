@@ -12,8 +12,6 @@ import javax.swing.JOptionPane;
  */
 
 /**
- *
- * @author Neelesh Sarraf
  */
 public class employeeDelete extends javax.swing.JFrame {
 
