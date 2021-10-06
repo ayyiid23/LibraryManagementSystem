@@ -13,8 +13,6 @@ import javax.swing.table.DefaultTableModel;
  */
 
 /**
- *
- * @author Neelesh Sarraf
  */
 public class branchshow extends javax.swing.JFrame {
 
