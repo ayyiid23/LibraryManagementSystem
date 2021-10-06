@@ -13,7 +13,6 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Neelesh Sarraf
  */
 public class issueDelete extends javax.swing.JFrame {
 
