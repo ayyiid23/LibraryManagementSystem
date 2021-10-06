@@ -12,10 +12,7 @@ import javax.swing.JOptionPane;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author Neelesh Sarraf
- */
+
 public class booksdelete extends javax.swing.JFrame {
 
     /**
