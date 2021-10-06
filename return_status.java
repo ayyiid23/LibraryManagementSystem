@@ -6,7 +6,6 @@
 
 /**
  *
- * @author Neelesh Sarraf
  */
 public class return_status extends javax.swing.JFrame {
 
