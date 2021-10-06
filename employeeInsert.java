@@ -17,7 +17,6 @@ import java.util.Locale;
 
 /**
  *
- * @author Neelesh Sarraf
  */
 public class employeeInsert extends javax.swing.JFrame {
 
