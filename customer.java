@@ -6,7 +6,6 @@
 
 /**
  *
- * @author Neelesh Sarraf
  */
 public class customer extends javax.swing.JFrame {
 
