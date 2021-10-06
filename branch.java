@@ -4,10 +4,6 @@
  * and open the template in the editor.
  */
 
-/**
- *
- * @author Neelesh Sarraf
- */
 public class branch extends javax.swing.JFrame {
 
     /**
