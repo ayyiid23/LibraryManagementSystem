@@ -18,7 +18,6 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Neelesh Sarraf
  */
 public class BooksShow extends javax.swing.JFrame {
 
