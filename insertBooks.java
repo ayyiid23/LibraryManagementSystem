@@ -18,7 +18,6 @@ import java.util.Locale;
 
 /**
  *
- * @author Neelesh Sarraf
  */
 public class insertBooks extends javax.swing.JFrame {
 
